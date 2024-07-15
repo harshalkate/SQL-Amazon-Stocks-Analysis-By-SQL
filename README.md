@@ -1,14 +1,14 @@
 # SQL-Amazon-Stocks-Analysis-By-SQL
 
-Overview
+Overview:
 This project involves a comprehensive analysis of Amazon's stock data using SQL. The dataset includes historical stock prices and trading volumes, providing insights into trends and patterns that can inform investment decisions.
 
-Dataset
+Dataset:
 Columns: Date, Open, High, Low, Close, Adj Close, Volume
 Source: Historical stock data of Amazon
 Period Covered: [Specify the time range]
 
-Objectives
+Objectives:
 Analyze historical stock performance
 Identify trends and patterns
 Provide actionable insights for investors
@@ -27,7 +27,8 @@ Visualizations
 Price Trends: Graphs depicting the Open, High, Low, and Close prices over time
 Volume Trends: Charts illustrating trading volumes across the dataset
 Daily Returns: Histograms showing the distribution of daily stock returns
-Key Findings
+
+Key Findings:
 Significant price fluctuations observed 
 Highest trading volumes noted 
 Consistent growth or decline trends over the analyzed period
